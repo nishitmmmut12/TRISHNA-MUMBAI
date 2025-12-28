@@ -1,13 +1,16 @@
 body{
-background-color: rgb(182, 222, 158);
-color: rgb(12, 10, 5);
+    background-image: url(bernard-hermant-SxNGG1MJ_IQ-unsplash.jpg) ;
+    background-size: cover;
+    font-size: 25px;
+
+
+color: rgb(3, 65, 52);
 
 } h1{
-    background-color: rgb(252, 90, 36);
-    color: rgb(63, 5, 68);
+    
+    color: rgb(208, 58, 3);
 }
  h2{
-    background-color: rgb(224, 147, 224);
-    color: rgb(50, 26, 10);
-
+    
+    color: rgb(84, 3, 84);
  }
